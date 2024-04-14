@@ -1,0 +1,4 @@
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Laboratorio 4\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Laboratorio 4\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Laboratorio 4\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\brlui\OneDrive\Documentos\Ciclo 3\Progra I\Laboratorio 4\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
